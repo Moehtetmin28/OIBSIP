@@ -1,3 +1,3 @@
-# My_DataScience_Projects
+# DataScience Internship
 
-Data Science Projects Using Machine Learing, Python.
+My Data Science Projects using Machine Learing, Python.
